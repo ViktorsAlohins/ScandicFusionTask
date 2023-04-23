@@ -4,9 +4,11 @@ Latvian football database: clubs, players, games, events, and participants.
 This repository contains a database schema for managing data related to Latvian football, including clubs, players, games, events, and game participants.
 
 Overview
+
 The Latvian Football Database is designed to store and retrieve detailed information about clubs, players, games, and events that occur during the games, such as goals and cards. This project aims to help users generate reports and analyze data related to Latvian football competitions.
 
 Tables
+
 The database consists of the following tables:
 
 Clubs: Stores information about football clubs, including their name, league, and region.
